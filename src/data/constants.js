@@ -62,7 +62,7 @@ export const skills = [
       },
       {
         name: "Bootstrap",
-        image: "/assets/bootstrap.svg",
+        image: "/assets/bootstrap.webp",
       },
       {
         name: "Tailwind Css",
@@ -111,7 +111,7 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image: "/assets/express.svg",
+        image: "/assets/expressjs.svg",
       },
       {
         name: "MongoDB",
@@ -168,8 +168,7 @@ export const skills = [
       },
       {
         name: "Postman",
-        image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+        image: "/assets/postman.webp",
       },
       // {
       //   name: "Insomnia",
@@ -261,12 +260,12 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VU_Logo.png/640px-VU_Logo.png",
-    school: "Virtual University of Pakistan",
-    date: "Oct 2020 - Sep 2024",
-    grade: "3.1 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in software engeneering at virtual university of pakistan. I have completed 3 semesters and have a CGPA of 3.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor Software Engineering",
+    img: "/assets/mns_logo.png",
+    school: "Muhammad Nawaz Sharif University of Agriculture,Multan",
+    date: "Oct 2018 - Sep 2022",
+    // grade: "3.1 CGPA",
+    desc: "I have completed BS Computer Science and have a CGPA of 3.17. I have taken courses in Web Development, Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Bachelor of Computer Science",
   },
 ];
 

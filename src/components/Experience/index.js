@@ -80,7 +80,7 @@ const index = () => {
           My work experience as a software engineer and working on different
           companies and projects.
         </Desc>
-        {/* <TimelineSection>
+        <TimelineSection>
           <Timeline>
             {experiences.map((experience, index) => (
               <TimelineItem>
@@ -96,7 +96,7 @@ const index = () => {
               </TimelineItem>
             ))}
           </Timeline>
-        </TimelineSection> */}
+        </TimelineSection>
       </Wrapper>
     </Container>
   );
