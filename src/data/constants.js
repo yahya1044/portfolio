@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer | Developer",
   ],
   description:
-    "I am a motivated and versatile individual with a strong commitment to self-learning, consistently eager to embrace new challenges. Fueled by a passion for continuous learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am poised to make a meaningful contribution and achieve exceptional outcomes",
+    "11I am a motivated and versatile individual with a strong commitment to self-learning, consistently eager to embrace new challenges. Fueled by a passion for continuous learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am poised to make a meaningful contribution and achieve exceptional outcomes",
   github: "https://github.com/yahya1044/",
   resume:
     "https://drive.google.com/file/d/10Czs7xwSifr-NJh8T2cYuhyEMy4jmJQ8/view?usp=sharing",
